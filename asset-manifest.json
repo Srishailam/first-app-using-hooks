@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first-app-using-hooks/static/css/main.5740cf87.css",
+    "main.js": "/first-app-using-hooks/static/js/main.fdff16c7.js",
+    "static/js/787.63f74ece.chunk.js": "/first-app-using-hooks/static/js/787.63f74ece.chunk.js",
+    "static/media/logo.svg": "/first-app-using-hooks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/first-app-using-hooks/index.html",
+    "main.5740cf87.css.map": "/first-app-using-hooks/static/css/main.5740cf87.css.map",
+    "main.fdff16c7.js.map": "/first-app-using-hooks/static/js/main.fdff16c7.js.map",
+    "787.63f74ece.chunk.js.map": "/first-app-using-hooks/static/js/787.63f74ece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5740cf87.css",
+    "static/js/main.fdff16c7.js"
+  ]
+}
